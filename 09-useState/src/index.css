@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+h1 {
+    background-color: rgb(41, 203, 192);
+    width: fit-content;
+    font-size: 50px;
+    padding: 5px 30px;
+    border-radius: 5px;
+    margin: 5px 180px;
+}
+
+
+.increament {
+    background-color: aquamarine;
+}
+
+
+.Decrement {
+    background-color: rgb(34, 142, 184);
+}
+
+.just5NUm{
+    background-color: rgb(176, 90, 182);
+}
+
+.Down5Num{
+    background-color: rgb(94, 167, 143);
+}
