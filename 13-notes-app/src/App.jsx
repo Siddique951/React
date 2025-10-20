@@ -61,7 +61,7 @@ const App = () => {
         />
 
         <button
-          className='bg-white active:scale-95 font-medium w-full outline-none  text-black px-5 py-2 rounded'
+          className='bg-white active:scale-95 font-medium w-full outline-none text-black px-5 py-2 rounded cursor-pointer'
         >
           Add Note
         </button>
