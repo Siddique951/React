@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+
+@theme {
+  --color-primary: #26DDB1;
+  --color-secondary: #172B4C
+}
+
+h1 {
+    font-size: 80px;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: 600;
+    white-space: nowrap;
+    text-transform: capitalize;
+}
