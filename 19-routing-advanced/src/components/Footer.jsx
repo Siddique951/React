@@ -3,7 +3,7 @@
 const Footer = () => {
     return (
         <div className='absolute bottom-0 w-full bg-secondary flex items-center justify-center py-4'>
-            <h3>This is Footer</h3>
+            <h3>This is a Footer</h3>
         </div>
     )
 }
